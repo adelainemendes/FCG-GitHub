@@ -1,4 +1,4 @@
-package cc.elgeld;
+package GitHub;
 
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
